@@ -4,6 +4,8 @@ Accessibility and Usability
 This is currently just a list of accessibility and usability resources on the web.
 
 ## List of resources
+- WebAIM  
+  https://webaim.org/
 - The A11Y Project  
   https://a11yproject.com/
 - A11Y Project Web Accessibility checklist  
