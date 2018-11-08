@@ -6,7 +6,15 @@ This is currently just a list of accessibility and usability resources on the we
 ## List of resources
 - The A11Y Project  
   https://a11yproject.com/
-  - A11Y Project Web Accessibility checklist  
-    https://a11yproject.com/checklist
+- A11Y Project Web Accessibility checklist  
+  https://a11yproject.com/checklist
 - A list of aria roles and properties not natively available in the current set of HTML5 elements  
   https://developer.paciellogroup.com/blog/2014/10/aria-in-html-there-goes-the-neighborhood/#html5na
+- Toptal ColorBlind Web Page Filter  
+  https://www.toptal.com/designers/colorfilter  
+- Contrast Ratio tool  
+  https://contrast-ratio.com  
+- Color Wheel to calculate complementary colors  
+  https://www.sessions.edu/color-calculator/
+- Usability.gov  
+  https://www.usability.gov/
