@@ -18,3 +18,7 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.sessions.edu/color-calculator/
 - Usability.gov  
   https://www.usability.gov/
+- Validator.nu  
+  https://validator.nu/
+- Accessibility support across major browsers  
+  https://www.html5accessibility.com/
