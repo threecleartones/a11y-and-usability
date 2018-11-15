@@ -24,3 +24,5 @@ This is currently just a list of accessibility and usability resources on the we
   https://validator.nu/
 - Accessibility support across major browsers  
   https://www.html5accessibility.com/
+- A11Y Style Guide  
+  https://a11y-style-guide.com/style-guide/section-structure.html
