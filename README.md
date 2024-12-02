@@ -26,3 +26,5 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.html5accessibility.com/
 - A11Y Style Guide  
   https://a11y-style-guide.com/style-guide/section-structure.html
+- Example of a "dicslosure" (can be applied to accordion modules)  
+  https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-faq/
