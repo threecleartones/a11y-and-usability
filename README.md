@@ -40,5 +40,5 @@ This is currently just a list of accessibility and usability resources on the we
   https://shouldiuseacarousel.com/
 - W3C - Carousels  
   https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
-- New Zealand government's A11Y - carousels page
+- New Zealand government's A11Y - carousels page  
   https://govtnz.github.io/web-a11y-guidance/wct/carousels/
