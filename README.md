@@ -32,7 +32,11 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-faq/
 - A11Y101  
   https://a11y-101.com/
+- New Zealand government's A11Y page  
+  https://govtnz.github.io/web-a11y-guidance/
 
   ## Carousels
   - WebAIM - Should I use a carousel  
     https://shouldiuseacarousel.com/
+  - W3C - Carousels
+    https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
