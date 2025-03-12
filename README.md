@@ -35,8 +35,8 @@ This is currently just a list of accessibility and usability resources on the we
 - New Zealand government's A11Y page  
   https://govtnz.github.io/web-a11y-guidance/
 
-  ## Carousels
-  - WebAIM - Should I use a carousel  
-    https://shouldiuseacarousel.com/
-  - W3C - Carousels  
-    https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+## Carousels
+- WebAIM - Should I use a carousel  
+  https://shouldiuseacarousel.com/
+- W3C - Carousels  
+  https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
