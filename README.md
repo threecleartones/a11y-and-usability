@@ -38,5 +38,5 @@ This is currently just a list of accessibility and usability resources on the we
   ## Carousels
   - WebAIM - Should I use a carousel  
     https://shouldiuseacarousel.com/
-  - W3C - Carousels
+  - W3C - Carousels  
     https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
