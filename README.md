@@ -6,6 +6,8 @@ This is currently just a list of accessibility and usability resources on the we
 ## List of resources
 - WebAIM  
   https://webaim.org/
+  - 2024 WebAIM Million report  
+    https://webaim.org/projects/million/
 - The A11Y Project  
   https://a11yproject.com/
 - A11Y Project Web Accessibility checklist  
@@ -30,3 +32,7 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-faq/
 - A11Y101  
   https://a11y-101.com/
+
+  ## Carousels
+  - WebAIM - Should I use a carousel  
+    https://shouldiuseacarousel.com/
