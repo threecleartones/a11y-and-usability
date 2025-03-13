@@ -43,3 +43,5 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.w3.org/WAI/tutorials/carousels/working-example/
 - New Zealand government's A11Y - carousels page  
   https://govtnz.github.io/web-a11y-guidance/wct/carousels/
+- Misc  
+  - https://www.a11y-collective.com/blog/accessible-carousel/
