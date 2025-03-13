@@ -37,6 +37,11 @@ This is currently just a list of accessibility and usability resources on the we
 - Why repetition is frustrating for screen reader users  
   https://www.boia.org/blog/why-repetition-is-frustrating-for-screen-reader-users
 
+## NVDA
+
+## Voice Over
+- To turn off the "You are currently on a..." announcements in VoiceOver on macOS, go to VoiceOver Utility (Control-Option-F8), navigate to Verbosity, then under Hints, uncheck "Speak instructions for using the item in the VoiceOver cursor".
+
 ## Carousels
 - WebAIM - Should I use a carousel  
   https://shouldiuseacarousel.com/
