@@ -34,6 +34,8 @@ This is currently just a list of accessibility and usability resources on the we
   https://a11y-101.com/
 - New Zealand government's A11Y page  
   https://govtnz.github.io/web-a11y-guidance/
+- Why repetition is frustrating for screen reader users  
+  https://www.boia.org/blog/why-repetition-is-frustrating-for-screen-reader-users
 
 ## Carousels
 - WebAIM - Should I use a carousel  
