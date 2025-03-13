@@ -39,6 +39,7 @@ This is currently just a list of accessibility and usability resources on the we
 - WebAIM - Should I use a carousel  
   https://shouldiuseacarousel.com/
 - W3C - Carousels  
-  https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+  https://www.w3.org/WAI/ARIA/apg/patterns/carousel/  
+  https://www.w3.org/WAI/tutorials/carousels/working-example/
 - New Zealand government's A11Y - carousels page  
   https://govtnz.github.io/web-a11y-guidance/wct/carousels/
