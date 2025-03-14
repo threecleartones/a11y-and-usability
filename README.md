@@ -38,6 +38,8 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.boia.org/blog/why-repetition-is-frustrating-for-screen-reader-users
 
 ## NVDA
+- NVDA bugs with the `bug/double-speaking` label  
+  https://github.com/nvaccess/nvda/issues?q=state%3Aopen%20label%3A%22bug%2Fdouble-speaking%22
 
 ## Voice Over
 - To turn off the "You are currently on a..." announcements in VoiceOver on macOS, go to VoiceOver Utility (Control-Option-F8), navigate to Verbosity, then under Hints, uncheck "Speak instructions for using the item in the VoiceOver cursor".
