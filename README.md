@@ -54,3 +54,7 @@ This is currently just a list of accessibility and usability resources on the we
   https://govtnz.github.io/web-a11y-guidance/wct/carousels/
 - Misc  
   - https://www.a11y-collective.com/blog/accessible-carousel/
+
+## Live Regions
+- Why are my live regions not working  
+  https://tetralogical.com/blog/2024/05/01/why-are-my-live-regions-not-working/
