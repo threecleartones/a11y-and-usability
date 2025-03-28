@@ -8,6 +8,8 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.w3.org/WAI/tutorials/
   - Application Menu Example & Code  
     https://www.w3.org/WAI/tutorials/menus/application-menus-code/
+  - Accordion example  
+    https://www.w3.org/WAI/ARIA/apg/patterns/accordion/examples/accordion/
 - WebAIM  
   https://webaim.org/
   - 2024 WebAIM Million report  
