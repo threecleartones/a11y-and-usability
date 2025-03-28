@@ -4,6 +4,8 @@ Accessibility and Usability
 This is currently just a list of accessibility and usability resources on the web.
 
 ## List of resources
+- W3c WAI - Tutorials  
+  https://www.w3.org/WAI/tutorials/
 - WebAIM  
   https://webaim.org/
   - 2024 WebAIM Million report  
