@@ -6,6 +6,8 @@ This is currently just a list of accessibility and usability resources on the we
 ## List of resources
 - W3C WAI - Tutorials  
   https://www.w3.org/WAI/tutorials/
+  - Application Menu Example & Code  
+    https://www.w3.org/WAI/tutorials/menus/application-menus-code/
 - WebAIM  
   https://webaim.org/
   - 2024 WebAIM Million report  
