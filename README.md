@@ -44,6 +44,9 @@ This is currently just a list of accessibility and usability resources on the we
   https://www.boia.org/blog/why-repetition-is-frustrating-for-screen-reader-users
 - Accessibility results  
   https://a11ysupport.io/
+- Video/Audio transcripts  
+  https://www.w3.org/WAI/media/av/transcripts/
+  https://www.w3.org/WAI/media/av/planning/#descriptive-transcripts
 
 ## NVDA
 - NVDA bugs with the `bug/double-speaking` label  
